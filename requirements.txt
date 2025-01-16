@@ -1,4 +1,4 @@
-imblearn.over_sampling
+imbalanced-learn==0.11.0
 matplotlib.pyplot
 numpy
 pandas
